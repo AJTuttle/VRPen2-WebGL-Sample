@@ -19,7 +19,7 @@ This is a quick build that was thrown together without much testing, so there ar
 
 2 - turn off adblock or anything that could block network traffic
 
-3 - try another browser (safarri tends to work well on macs)
+3 - try another browser (safari tends to work well on macs)
 
 ## I can't see any drawing surface, its just black
 1 - try other browser
